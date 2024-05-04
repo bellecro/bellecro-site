@@ -1,6 +1,6 @@
 # bellecro
 
-Source code for [Bellecro](https://bellecro.com/), a static site.
+Source code for [BelleCro](https://bellecro.com/), a static site.
 
 ## Netlify
 
