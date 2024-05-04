@@ -1,4 +1,4 @@
-# bellecro
+# bellecro-site
 
 Source code for [BelleCro](https://bellecro.com/), a static site.
 
